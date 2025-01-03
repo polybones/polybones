@@ -16,3 +16,4 @@ I am a hobbyist who enjoys writing software.
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-blue?style=flat&logo=archlinux&logoColor=white)
 ![starship](https://img.shields.io/badge/starship.rs-magenta?style=flat&logo=starship)
 ![Vencord](https://img.shields.io/badge/Vencord-pink?style=flat&logo=vencord&logoColor=black)
+![Justfile](https://img.shields.io/badge/Justfile-gray?style=flat)
